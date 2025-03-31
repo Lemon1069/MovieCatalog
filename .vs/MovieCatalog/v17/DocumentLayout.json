@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieCatalog\\MovieCatalog\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieCatalog\\MovieCatalog\\MovieCatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieCatalog\\MovieCatalog\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieCatalog\\MovieCatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Models\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieCatalog\\MovieCatalog\\Models\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\MovieCatalog\\Program.cs",
+              "ToolTip": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Program.cs",
+              "RelativeToolTip": "MovieCatalog\\MovieCatalog\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:55:01.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieCatalog.csproj",
+              "DocumentMoniker": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+              "RelativeDocumentMoniker": "MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+              "ToolTip": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+              "RelativeToolTip": "MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T15:54:39.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\MovieCatalog\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MovieCatalog\\MovieCatalog\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:47:11.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieCatalog\\MovieCatalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\appsettings.json",
+              "RelativeToolTip": "MovieCatalog\\MovieCatalog\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T15:46:25.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\MovieCatalog\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\asent\\Desktop\\AngularExam\\MovieCatalog\\MovieCatalog\\MovieCatalog\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieCatalog\\MovieCatalog\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:36:10.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

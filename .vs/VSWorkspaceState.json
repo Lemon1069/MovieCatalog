@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MovieCatalog",
+    "\\MovieCatalog\\MovieCatalog",
+    "\\MovieCatalog\\MovieCatalog\\Controllers",
+    "\\MovieCatalog\\MovieCatalog\\Data",
+    "\\MovieCatalog\\MovieCatalog\\Models"
   ],
+  "SelectedNode": "\\MovieCatalog\\MovieCatalog\\Controllers",
   "PreviewInSolutionExplorer": false
 }
